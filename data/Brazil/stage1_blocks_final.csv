@@ -1,0 +1,126 @@
+block_id,block_label,block_category_str,block_eligible,in_final_sample
+129,[Block ID:]  129 [Category:]  Strata 2: Low probability [Notes:] 60% not-urban,Strata 2: Low probability,1,1
+399,[Block ID:]  399 [Category:]  Strata 2: Low probability [Notes:] 80% not-urban,Strata 2: Low probability,1,1
+576,[Block ID:]  576 [Category:]  Strata 2: Low probability [Notes:] 80% not-urban,Strata 2: Low probability,1,1
+878,[Block ID:]  878 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+891,[Block ID:]  891 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+1047,[Block ID:]  1047 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+1223,[Block ID:]  1223 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+1739,[Block ID:]  1739 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+2421,[Block ID:]  2421 [Category:]  Strata 2: Low probability [Notes:] 70% not-urban (and insecure),Strata 2: Low probability,1,1
+2713,[Block ID:]  2713 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+2714,[Block ID:]  2714 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+2929,"[Block ID:]  2929 [Category:]  Strata 2: Low probability [Notes:] Dead-end street, a bit insecure",Strata 2: Low probability,1,1
+3215,"[Block ID:]  3215 [Category:]  Strata 2: Low probability [Notes:] Very low (only country houses, unpaved roads)",Strata 2: Low probability,1,1
+3628,"[Block ID:]  3628 [Category:]  Strata 2: Low probability [Notes:] Very low (two big supermarkets, one gas station)",Strata 2: Low probability,1,1
+3993,[Block ID:]  3993 [Category:]  Strata 2: Low probability [Notes:] Residential (and a bit insecure),Strata 2: Low probability,1,1
+4065,[Block ID:]  4065 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+4297,"[Block ID:]  4297 [Category:]  Strata 2: Low probability [Notes:] 80% not-urban, and much residential",Strata 2: Low probability,1,1
+4526,[Block ID:]  4526 [Category:]  Strata 2: Low probability [Notes:] NA,Strata 2: Low probability,1,1
+5482,[Block ID:]  5482 [Category:]  Strata 2: Low probability [Notes:] Very low (park + residential complex),Strata 2: Low probability,1,1
+5884,[Block ID:]  5884 [Category:]  Strata 2: Low probability [Notes:] Mostly residential,Strata 2: Low probability,1,1
+6012,[Block ID:]  6012 [Category:]  Strata 2: Low probability [Notes:] Mostly residential,Strata 2: Low probability,1,1
+6024,[Block ID:]  6024 [Category:]  Off-limits [Notes:] Residential complex,Off-limits,0,0
+6043,[Block ID:]  6043 [Category:]  Strata 2: Low probability [Notes:] Mostly residential,Strata 2: Low probability,1,1
+6558,[Block ID:]  6558 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+7225,[Block ID:]  7225 [Category:]  Strata 1: High probability [Notes:] Mostly residential,Strata 1: High probability,1,1
+7282,[Block ID:]  7282 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+7503,[Block ID:]  7503 [Category:]  Off-limits [Notes:] Off-limits,Off-limits,0,0
+7685,[Block ID:]  7685 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+7693,[Block ID:]  7693 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+8163,[Block ID:]  8163 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+8428,[Block ID:]  8428 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+8447,[Block ID:]  8447 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+9197,[Block ID:]  9197 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+9310,[Block ID:]  9310 [Category:]  Off-limits [Notes:] Airport,Off-limits,0,0
+9372,[Block ID:]  9372 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+9650,[Block ID:]  9650 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+10142,[Block ID:]  10142 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+10640,[Block ID:]  10640 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+10774,[Block ID:]  10774 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+10921,[Block ID:]  10921 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+11189,"[Block ID:]  11189 [Category:]  Strata 2: Low probability [Notes:] 80% not-urban, and residential",Strata 2: Low probability,1,1
+12204,[Block ID:]  12204 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+12208,"[Block ID:]  12208 [Category:]  Strata 2: Low probability [Notes:] Very low (rental car branches, car dealers)",Strata 2: Low probability,1,1
+12416,[Block ID:]  12416 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+13790,[Block ID:]  13790 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+13985,[Block ID:]  13985 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+14341,[Block ID:]  14341 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+14374,[Block ID:]  14374 [Category:]  Strata 2: Low probability [Notes:] Road conjunction,Strata 2: Low probability,1,1
+14953,"[Block ID:]  14953 [Category:]  Strata 2: Low probability [Notes:] Industrial, warehouses",Strata 2: Low probability,1,1
+15218,[Block ID:]  15218 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+15363,[Block ID:]  15363 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+15749,"[Block ID:]  15749 [Category:]  Strata 2: Low probability [Notes:] Municipal school, church",Strata 2: Low probability,1,1
+15803,[Block ID:]  15803 [Category:]  Strata 2: Low probability [Notes:] Corporate buildings,Strata 2: Low probability,1,1
+16026,[Block ID:]  16026 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+16034,[Block ID:]  16034 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+16313,[Block ID:]  16313 [Category:]  Off-limits [Notes:] Large construction material store,Off-limits,0,0
+16613,[Block ID:]  16613 [Category:]  Strata 2: Low probability [Notes:] 90% residential,Strata 2: Low probability,1,1
+16622,[Block ID:]  16622 [Category:]  Strata 2: Low probability [Notes:] Residential complexes,Strata 2: Low probability,1,1
+16856,[Block ID:]  16856 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+17049,[Block ID:]  17049 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+17418,[Block ID:]  17418 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+18262,[Block ID:]  18262 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+18364,[Block ID:]  18364 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+19081,[Block ID:]  19081 [Category:]  Off-limits [Notes:] Residential complex,Off-limits,0,0
+19127,[Block ID:]  19127 [Category:]  Off-limits [Notes:] Governmental,Off-limits,0,0
+19194,[Block ID:]  19194 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+19942,[Block ID:]  19942 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+20881,[Block ID:]  20881 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+20997,[Block ID:]  20997 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+21262,[Block ID:]  21262 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+21795,[Block ID:]  21795 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+22442,[Block ID:]  22442 [Category:]  Strata 2: Low probability [Notes:] Road conjunction,Strata 2: Low probability,1,1
+23017,[Block ID:]  23017 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+23189,[Block ID:]  23189 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+23420,[Block ID:]  23420 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+23529,[Block ID:]  23529 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+23623,"[Block ID:]  23623 [Category:]  Off-limits [Notes:] Industrial, warehouses",Off-limits,0,0
+23825,[Block ID:]  23825 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+24393,[Block ID:]  24393 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+24622,[Block ID:]  24622 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+24761,[Block ID:]  24761 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+24770,[Block ID:]  24770 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+24908,[Block ID:]  24908 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+24924,[Block ID:]  24924 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+25108,[Block ID:]  25108 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+25317,[Block ID:]  25317 [Category:]  Strata 2: Low probability [Notes:] Very low (and insecure),Strata 2: Low probability,1,1
+26417,[Block ID:]  26417 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+27025,[Block ID:]  27025 [Category:]  Off-limits [Notes:] Train station/line,Off-limits,0,0
+27498,"[Block ID:]  27498 [Category:]  Off-limits [Notes:] Industrial, warehouses",Off-limits,0,0
+27939,[Block ID:]  27939 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+28115,[Block ID:]  28115 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+28560,[Block ID:]  28560 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+28759,[Block ID:]  28759 [Category:]  Off-limits [Notes:] Governmental,Off-limits,0,0
+28904,[Block ID:]  28904 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+29230,[Block ID:]  29230 [Category:]  Empty/not-urban [Notes:] Park,Empty/not-urban,0,0
+29413,[Block ID:]  29413 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+29511,[Block ID:]  29511 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+29517,[Block ID:]  29517 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+29532,[Block ID:]  29532 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+29666,[Block ID:]  29666 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+30206,[Block ID:]  30206 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+30233,[Block ID:]  30233 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+30240,[Block ID:]  30240 [Category:]  Strata 1: High probability [Notes:] Terminal Santana (central bus station),Strata 1: High probability,1,1
+30498,[Block ID:]  30498 [Category:]  Strata 1: High probability [Notes:] (Close to 30240 - Metrô Santana),Strata 1: High probability,1,1
+30554,[Block ID:]  30554 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+31522,[Block ID:]  31522 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+31708,[Block ID:]  31708 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+31774,[Block ID:]  31774 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+32358,[Block ID:]  32358 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+32877,[Block ID:]  32877 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+33118,"[Block ID:]  33118 [Category:]  Off-limits [Notes:] Industrial, warehouses",Off-limits,0,0
+33378,[Block ID:]  33378 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+33995,[Block ID:]  33995 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+34004,[Block ID:]  34004 [Category:]  Strata 1: High probability [Notes:] OK,Strata 1: High probability,1,1
+34192,[Block ID:]  34192 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+34563,[Block ID:]  34563 [Category:]  Strata 2: Low probability [Notes:] Very low (residential + highway),Strata 2: Low probability,1,1
+35052,[Block ID:]  35052 [Category:]  Strata 2: Low probability [Notes:] Very low (residential),Strata 2: Low probability,1,1
+35074,[Block ID:]  35074 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+35556,[Block ID:]  35556 [Category:]  Strata 2: Low probability [Notes:] Very low (residential + warehouse),Strata 2: Low probability,1,1
+36457,[Block ID:]  36457 [Category:]  Strata 1: High probability [Notes:] NA,Strata 1: High probability,1,1
+36713,[Block ID:]  36713 [Category:]  Strata 2: Low probability [Notes:] Residential,Strata 2: Low probability,1,1
+37460,[Block ID:]  37460 [Category:]  Insecure [Notes:] Insecure,Insecure,0,0
+37525,[Block ID:]  37525 [Category:]  Empty/not-urban [Notes:] Mining area (some residential),Empty/not-urban,0,0
+37833,[Block ID:]  37833 [Category:]  Off-limits [Notes:] Mining area,Off-limits,0,0
+37933,"[Block ID:]  37933 [Category:]  Off-limits [Notes:] Industrial, warehouses",Off-limits,0,0
